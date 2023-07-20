@@ -14,6 +14,7 @@ Installation
 Usage
 Contributing
 License
+
 Police Dataset Analysis
 In this project, we analyze a dataset related to police records. Using Pandas, we perform operations like checking for null values, finding unique values, examining the first few rows of data, and filtering data based on specific criteria.
 
