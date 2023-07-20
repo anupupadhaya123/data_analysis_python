@@ -39,7 +39,7 @@ Netflix Data Analysis
 In this project, we analyze a dataset containing information about Netflix shows. Using Pandas, we explore the data, apply methods like checking for null values, finding unique values, examining the dataset's structure, and filtering data based on specific conditions.
 
 Installation
-Clone the repository: git clone https://github.com/yourusername/dataset-analysis.git
+Clone the repository: git clone [https://github.com/yourusername/dataset-analysis.git](https://github.com/anupupadhaya123/data_analysis_python)
 Install the required dependencies: pip install pandas matplotlib
 Usage
 Simply open the Jupyter notebooks or Python scripts corresponding to each dataset analysis project. Run the code cells step-by-step to understand the data analysis process and the usage of Pandas methods for manipulating and visualizing the data.
